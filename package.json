@@ -1,6 +1,6 @@
 {
 	"name": "import-toml",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Import a TOML file.",
 	"repository": "https://github.com/Richienb/import-toml.git",
 	"author": "Richie Bendall <richiebendall@gmail.com>",
